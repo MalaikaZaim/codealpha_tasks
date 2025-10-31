@@ -1,4 +1,4 @@
-# CodeAlpha Tasks
+# CodeAlpha Tasks (C Programming)
 ## ✅ TASK 1: Basic – Calculator Program 
 * Write a C program to perform basic arithmetic operations (Addition, Subtraction, Multiplication & Division).
 * Use switch case for operation selection. 
@@ -7,7 +7,7 @@ Write a program to implement:
 * Matrix Addition 
 * Matrix Multiplication 
 * Transpose 
-Use functions and 2D arrays for better modularity. 
+* Use functions and 2D arrays for better modularity. 
 ## ✅ TASK 3: High – Student Management System 
 * Create a menu-driven C program to manage student records. 
 * Features: Add, Delete, Update, Search, Display records. 
